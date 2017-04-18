@@ -1,0 +1,7 @@
+The game presents three initial options: New Game, Hall of Fame, Quit, but also incorporates the 4th when necessary (Resume).For optimal display use the terminal on full-screen. The game has already set a Guest account (password: "guest") and a highscore of 100. Others can be added.
+
+Features:
+-get-motivated: during the game, by pressing the M key, the game randomly generates a message (10 possible messages);
+-user accounts: The game may have a maximum of 10 users, each with their own password (20 character maximum);
+-auto-move (pressing the E key)
+-highscores (top 10 scores )
